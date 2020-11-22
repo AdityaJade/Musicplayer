@@ -1,0 +1,9 @@
+<root>
+    <item
+        name='com.karumi.dexter.Dexter com.karumi.dexter.DexterBuilder.Permission withActivity(android.app.Activity)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="value" val="&quot;_-&gt;new&quot;" />
+            <val name="pure" val="true" />
+        </annotation>
+    </item>
+</root>
